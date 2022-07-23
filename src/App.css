@@ -1,0 +1,46 @@
+.container {
+
+  display: flex;
+
+  justify-content: center;
+
+  background-color: rgb(126, 40, 40);
+
+}
+
+h1, h2 {
+  color: #bdafb2;
+
+}
+
+
+.dress {
+
+  margin: 10px;
+
+}
+
+
+.btn {
+
+  display: flex;
+
+ justify-content: space-evenly;
+
+}
+
+
+
+button {
+
+  background-color: #bdafb2;
+
+  color: #fff;
+
+  padding: 10px;
+
+  border: solid black 2px;
+
+  text-transform: uppercase;
+
+}
